@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rushaniia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
 <h3 align="center">Data Scientist</h3>
 
 <!--

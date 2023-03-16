@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
 <h3 align="center">Data Scientist</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrishkulova)](https://git.io/streak-stats)
 
 <!--
 **rrishkulova/rrishkulova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

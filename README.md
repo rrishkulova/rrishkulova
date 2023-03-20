@@ -4,8 +4,8 @@
 
 
 <h3 align="left">Python:</h3>   
-![codewars](https://www.codewars.com/users/IRR/badges/large)
 
+![codewars](https://www.codewars.com/users/username/badges/large)
 
 <!--
 **rrishkulova/rrishkulova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h1>
 <h3 align="center">Data Scientist, ML specialist</h3>
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **rrishkulova/rrishkulova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Python:</h3>   
-[![codewars](https://www.codewars.com/users/IRR/badges/large)]
+![codewars](https://www.codewars.com/users/IRR/badges/large)
 
 
 <!--
